@@ -1,0 +1,11 @@
+ El volumen de la unidad C es OS
+ El n£mero de serie del volumen es: A69D-374D
+
+ Directorio de C:\twain
+
+03/09/2020  10:57    <DIR>          .
+03/09/2020  10:57    <DIR>          ..
+03/09/2020  10:05                 4 carlos.txt
+03/09/2020  10:57                 0 dir.txt
+               2 archivos              4 bytes
+               2 dirs  100.931.039.232 bytes libres
